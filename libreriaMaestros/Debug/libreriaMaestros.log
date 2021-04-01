@@ -1,0 +1,6 @@
+﻿  libreriaMaestros.cpp
+C:\Users\rocha\Desktop\Proyecto Estructuras\libreriaMaestros\libreriaMaestros\libreriaMaestros\libreriaMaestros.cpp(73,9): warning C4551: la llamada a la función no tiene lista de argumentos
+C:\Users\rocha\Desktop\Proyecto Estructuras\libreriaMaestros\libreriaMaestros\libreriaMaestros\libreriaMaestros.cpp(141,9): warning C4551: la llamada a la función no tiene lista de argumentos
+C:\Users\rocha\Desktop\Proyecto Estructuras\libreriaMaestros\libreriaMaestros\libreriaMaestros\libreriaMaestros.cpp(209,9): warning C4551: la llamada a la función no tiene lista de argumentos
+C:\Users\rocha\Desktop\Proyecto Estructuras\libreriaMaestros\libreriaMaestros\libreriaMaestros\libreriaMaestros.cpp(282,9): warning C4551: la llamada a la función no tiene lista de argumentos
+  libreriaMaestros.vcxproj -> C:\Users\rocha\Desktop\Proyecto Estructuras\libreriaMaestros\libreriaMaestros\Debug\libreriaMaestros.exe
